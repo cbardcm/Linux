@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/cbardcm/Linux/main/awkList
+https://raw.githubusercontent.com/cbardcm/Linux/main/cutList
+https://raw.githubusercontent.com/cbardcm/Linux/main/employees.txt
+https://raw.githubusercontent.com/cbardcm/Linux/main/reverseList
+https://raw.githubusercontent.com/cbardcm/Linux/main/sedList
